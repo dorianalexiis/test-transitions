@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Test Transitions</string>
+
+    <string name="error_connection">connection error</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="trending">Trending</string>
+    <string name="home">Home</string>
+    <string name="profile_insertyourname">Insert your name</string>
+    <string name="profile_logout">Logout</string>
+    <string name="home_button">Button</string>
+    <string name="home_grid">Grid</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="home_image">Image</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="image_taponimage">tap on image</string>
+    <string name="home_pathcurved">Path (Curved)</string>
+    <string name="title_activity_path_curved">PathCurvedActivity</string>
+    <string name="home_transitionname">TransitionName</string>
+    <string name="title_activity_transition_name">TransitionNameActivity</string>
+    <string name="home_recolor">Recolor</string>
+    <string name="title_activity_recolor">RecolorActivity</string>
+    <string name="home_changetext">ChangeText</string>
+    <string name="title_activity_change_text">ChangeTextActivity</string>
+    <string name="first_text">Hi, I am text. Tap on me!</string>
+    <string name="second_text">Tanks! Another tap?</string>
+</resources>
